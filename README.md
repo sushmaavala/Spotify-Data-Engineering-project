@@ -96,7 +96,7 @@ This produced ~16 Parquet files.
 - Highly compressed  
 - Industry standard for analytics  
 
----
+
 
 # 5️ **Glue Job Configuration**
 - Glue version: **4.0**  
@@ -105,7 +105,7 @@ This produced ~16 Parquet files.
   - g.1x (4 vCPU / 16GB RAM)  
 - IAM Role: `glue_access_s3`
 
----
+
 
 # 6️ **Issues I Faced & How I Fixed Them **
 
