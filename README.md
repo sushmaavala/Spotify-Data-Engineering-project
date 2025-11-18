@@ -38,13 +38,13 @@ After preprocessing, I reduced it to **three clean CSV files**:
 - Track duration, mode, loudness  
 
 
-# 2️ **AWS IAM Setup (Security Best Practice)**
+# 2️ **AWS IAM Setup **
 
 I followed AWS best practices:
 
 
-✔ Created an **IAM user** with fine-grained access  
-✔ Granted minimal required services:
+Created an **IAM user** with fine-grained access  
+Granted minimal required services:
 
 - Amazon S3 Full Access  
 - AWS Glue Full Access  
